@@ -29,16 +29,16 @@ USER_AGENT = "RenUSA Harvest Dashboard (ddonofrio@thecaseygroup.us)"
 
 # ---------------- Config you can edit ----------------
 TEAM_EMAILS = [
-    "jeremy@renusa.org",
-    "chad@renusa.org",
-    "john@renusa.org",
-    "dave@renusa.org",
+    "mati@renusa.org",
+    "josh@renusa.org",
+    "kaylee@renusa.org",
+    "grace@renusa.org",
 ]
 YEAR = 2026
 # -----------------------------------------------------
 
-ACCOUNT_ID = os.environ.get("HARVEST_ACCOUNT_ID")
-TOKEN = os.environ.get("HARVEST_TOKEN")
+ACCOUNT_ID = (os.environ.get("HARVEST_ACCOUNT_ID") or "").strip()
+TOKEN = (os.environ.get("HARVEST_TOKEN") or "").strip()
 
 
 def die(msg):
@@ -139,7 +139,7 @@ HTML_TEMPLATE = r"""<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>RenUSA Team Hours — __YEAR__</title>
+<title>RenUSA Central Team Hours — __YEAR__</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
@@ -216,7 +216,7 @@ HTML_TEMPLATE = r"""<!doctype html>
 <body>
 <div class="stripe"></div>
 <header>
-  <h1>RenUSA Team Hours · __YEAR__</h1>
+  <h1>RenUSA Central Team Hours · __YEAR__</h1>
   <div class="sub">__SUB__</div>
 </header>
 <div class="goldbar"></div>
