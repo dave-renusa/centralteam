@@ -33,6 +33,7 @@ TEAM_EMAILS = [
     "josh@renusa.org",
     "kaylee@renusa.org",
     "grace@renusa.org",
+    "jeremy@renusa.org",
 ]
 YEAR = 2026
 # -----------------------------------------------------
