@@ -1,11 +1,12 @@
 {
   "meta": {
-    "generated": "2026-06-24 18:51 UTC",
+    "generated": "2026-06-24 18:54 UTC",
     "year": 2026,
     "from": "2026-01-01",
     "to": "2026-06-24",
     "people": [
       "Grace Lacke",
+      "Jeremy Jones",
       "Joshua Hartke",
       "Kaylee Gibbs",
       "Marilyn Ihinger"
@@ -13,7 +14,9 @@
     "projects": [
       "1500 Gateway Data Center",
       "Allium",
+      "Ampliform/CV-Tollhouse, VA",
       "Ampliform/NW-Rocky Ford, VA",
+      "Black Cherry",
       "Cloudwalker Wind",
       "Copper Box Solar",
       "EASL",
@@ -30,12 +33,14 @@
       "Home Range Digital",
       "Long Meadow Solar/Morgan County, CO",
       "Lost Island Wind",
+      "Marathon BESS",
       "Ren Business Development",
       "Ren Internal",
       "Ringgold Wind",
       "Rock County, WI",
       "Silver Maple",
       "Twin Creeks",
+      "VA Research",
       "Walker Road Solar",
       "Whispering Willow Wind",
       "Wild Rose",
@@ -45,22 +50,25 @@
     "clients": [
       "Alliant Energy",
       "Ampliform",
+      "Clearway",
       "ENGIE",
       "Enel",
       "Farm to Power",
       "Longroad Energy",
       "Penzance",
       "RWE",
+      "Recurrent",
       "RenUSA",
       "Repsol",
       "Scout Clean Energy",
       "Steelhead",
+      "Swift Current",
       "Treaty Oak Clean Energy",
       "Triple Oak",
       "Viridon"
     ],
-    "entry_count": 1556,
-    "total_hours": 3033.1
+    "entry_count": 2013,
+    "total_hours": 4085.4
   },
   "entries": [
     {
@@ -324,6 +332,13 @@
     },
     {
       "date": "2026-06-19",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-06-19",
       "person": "Joshua Hartke",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -412,6 +427,27 @@
       "project": "Gipper Solar",
       "client": "Scout Clean Energy",
       "hours": 1.0
+    },
+    {
+      "date": "2026-06-18",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-06-18",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-06-18",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
     },
     {
       "date": "2026-06-18",
@@ -510,6 +546,34 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 1.0
+    },
+    {
+      "date": "2026-06-17",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-06-17",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-06-17",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-06-17",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.5
     },
     {
       "date": "2026-06-17",
@@ -657,6 +721,34 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 1.0
+    },
+    {
+      "date": "2026-06-16",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-06-16",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-06-16",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-06-16",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.5
     },
     {
       "date": "2026-06-16",
@@ -891,7 +983,21 @@
     },
     {
       "date": "2026-06-15",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-06-15",
       "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-06-12",
+      "person": "Jeremy Jones",
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 8.0
@@ -1000,6 +1106,13 @@
       "project": "Ren Business Development",
       "client": "RenUSA",
       "hours": 1.0
+    },
+    {
+      "date": "2026-06-11",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
     },
     {
       "date": "2026-06-11",
@@ -1178,6 +1291,27 @@
     },
     {
       "date": "2026-06-10",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-06-10",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-06-10",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-06-10",
       "person": "Kaylee Gibbs",
       "project": "Ren Business Development",
       "client": "RenUSA",
@@ -1343,6 +1477,20 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 0.5
+    },
+    {
+      "date": "2026-06-09",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-06-09",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
     },
     {
       "date": "2026-06-09",
@@ -1528,6 +1676,27 @@
     },
     {
       "date": "2026-06-08",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.5
+    },
+    {
+      "date": "2026-06-08",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.5
+    },
+    {
+      "date": "2026-06-08",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-06-08",
       "person": "Kaylee Gibbs",
       "project": "Ringgold Wind",
       "client": "Steelhead",
@@ -1703,6 +1872,34 @@
     },
     {
       "date": "2026-06-05",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-06-05",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-06-05",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-06-05",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-06-05",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -1840,6 +2037,34 @@
       "project": "Ringgold Wind",
       "client": "Steelhead",
       "hours": 2.0
+    },
+    {
+      "date": "2026-06-04",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-06-04",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-06-04",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-06-04",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
     },
     {
       "date": "2026-06-04",
@@ -2004,6 +2229,34 @@
     },
     {
       "date": "2026-06-03",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-06-03",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-06-03",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-06-03",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-06-03",
       "person": "Kaylee Gibbs",
       "project": "Gipper Solar",
       "client": "Scout Clean Energy",
@@ -2141,6 +2394,34 @@
       "project": "Ringgold Wind",
       "client": "Steelhead",
       "hours": 2.0
+    },
+    {
+      "date": "2026-06-02",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-06-02",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-06-02",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.5
+    },
+    {
+      "date": "2026-06-02",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.5
     },
     {
       "date": "2026-06-02",
@@ -2333,6 +2614,34 @@
     },
     {
       "date": "2026-06-01",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-06-01",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-06-01",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-06-01",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-06-01",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -2459,6 +2768,27 @@
     },
     {
       "date": "2026-05-29",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-29",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-05-29",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-05-29",
       "person": "Grace Lacke",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -2484,6 +2814,27 @@
       "project": "Green Sun Wind",
       "client": "Steelhead",
       "hours": 2.0
+    },
+    {
+      "date": "2026-05-28",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-05-28",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-05-28",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 0.5
     },
     {
       "date": "2026-05-28",
@@ -2578,6 +2929,27 @@
     },
     {
       "date": "2026-05-27",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-05-27",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-27",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-27",
       "person": "Grace Lacke",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -2652,6 +3024,55 @@
       "project": "Gipper Solar",
       "client": "Scout Clean Energy",
       "hours": 6.0
+    },
+    {
+      "date": "2026-05-26",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-26",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-26",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-05-26",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-05-26",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-26",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-26",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
     },
     {
       "date": "2026-05-26",
@@ -2760,6 +3181,13 @@
     },
     {
       "date": "2026-05-25",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-05-25",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -2812,6 +3240,34 @@
       "person": "Kaylee Gibbs",
       "project": "Frigid Creek Solar/Mason County, WA",
       "client": "Treaty Oak Clean Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-22",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-22",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-22",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-22",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
       "hours": 2.0
     },
     {
@@ -2890,6 +3346,41 @@
       "project": "Gipper Solar",
       "client": "Scout Clean Energy",
       "hours": 2.5
+    },
+    {
+      "date": "2026-05-21",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-05-21",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-05-21",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-21",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-21",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
     },
     {
       "date": "2026-05-21",
@@ -3026,6 +3517,34 @@
     },
     {
       "date": "2026-05-20",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-05-20",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-05-20",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-20",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-20",
       "person": "Joshua Hartke",
       "project": "Green Sun Wind",
       "client": "Steelhead",
@@ -3135,6 +3654,34 @@
       "project": "Cloudwalker Wind",
       "client": "Enel",
       "hours": 1.5
+    },
+    {
+      "date": "2026-05-19",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-19",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-19",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-05-19",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
     },
     {
       "date": "2026-05-19",
@@ -3250,6 +3797,13 @@
     },
     {
       "date": "2026-05-18",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-05-18",
       "person": "Joshua Hartke",
       "project": "Gipper Solar",
       "client": "Scout Clean Energy",
@@ -3341,6 +3895,13 @@
     },
     {
       "date": "2026-05-15",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-05-15",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -3422,6 +3983,20 @@
       "project": "Wild Rose",
       "client": "Alliant Energy",
       "hours": 2.0
+    },
+    {
+      "date": "2026-05-14",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-14",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 6.0
     },
     {
       "date": "2026-05-14",
@@ -3516,6 +4091,27 @@
     },
     {
       "date": "2026-05-13",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-13",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-13",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-05-13",
       "person": "Kaylee Gibbs",
       "project": "Cloudwalker Wind",
       "client": "Enel",
@@ -3649,6 +4245,41 @@
     },
     {
       "date": "2026-05-12",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 10.0
+    },
+    {
+      "date": "2026-05-12",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-12",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-12",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-12",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-12",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -3765,6 +4396,41 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 3.0
+    },
+    {
+      "date": "2026-05-11",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-11",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-11",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-11",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 6.0
+    },
+    {
+      "date": "2026-05-11",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
     },
     {
       "date": "2026-05-11",
@@ -3915,6 +4581,41 @@
     },
     {
       "date": "2026-05-08",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-05-08",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-08",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-08",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-08",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-08",
       "person": "Grace Lacke",
       "project": "Home Range Digital",
       "client": "Triple Oak",
@@ -3981,6 +4682,34 @@
       "person": "Joshua Hartke",
       "project": "Ren Internal",
       "client": "RenUSA",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-05-07",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-05-07",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-07",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-07",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
       "hours": 3.0
     },
     {
@@ -4076,6 +4805,55 @@
     },
     {
       "date": "2026-05-06",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-06",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 15.0
+    },
+    {
+      "date": "2026-05-06",
       "person": "Grace Lacke",
       "project": "Gipper Solar",
       "client": "Scout Clean Energy",
@@ -4167,6 +4945,20 @@
     },
     {
       "date": "2026-05-05",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-05",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-05-05",
       "person": "Grace Lacke",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -4227,6 +5019,20 @@
       "project": "Wild Rose",
       "client": "Alliant Energy",
       "hours": 2.0
+    },
+    {
+      "date": "2026-05-04",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-05-04",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
     },
     {
       "date": "2026-05-04",
@@ -4349,6 +5155,27 @@
     },
     {
       "date": "2026-05-01",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-01",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-05-01",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-05-01",
       "person": "Grace Lacke",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -4395,6 +5222,55 @@
       "project": "Gipper Solar",
       "client": "Scout Clean Energy",
       "hours": 5.0
+    },
+    {
+      "date": "2026-04-30",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-30",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-30",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 4.5
+    },
+    {
+      "date": "2026-04-30",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 4.5
+    },
+    {
+      "date": "2026-04-30",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 0.75
+    },
+    {
+      "date": "2026-04-30",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-30",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
     },
     {
       "date": "2026-04-30",
@@ -4486,6 +5362,48 @@
       "project": "Harvest Hills",
       "client": "Steelhead",
       "hours": 3.5
+    },
+    {
+      "date": "2026-04-29",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-29",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-29",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-29",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-29",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-29",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
     },
     {
       "date": "2026-04-29",
@@ -4587,6 +5505,34 @@
     },
     {
       "date": "2026-04-28",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 6.0
+    },
+    {
+      "date": "2026-04-28",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 6.0
+    },
+    {
+      "date": "2026-04-28",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-04-28",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-04-28",
       "person": "Grace Lacke",
       "project": "Ren Business Development",
       "client": "RenUSA",
@@ -4706,6 +5652,41 @@
     },
     {
       "date": "2026-04-27",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-04-27",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-04-27",
       "person": "Grace Lacke",
       "project": "Ren Business Development",
       "client": "RenUSA",
@@ -4759,6 +5740,34 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 0.5
+    },
+    {
+      "date": "2026-04-24",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.75
+    },
+    {
+      "date": "2026-04-24",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.75
+    },
+    {
+      "date": "2026-04-24",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-24",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 3.0
     },
     {
       "date": "2026-04-24",
@@ -4850,6 +5859,34 @@
       "project": "Wild Rose",
       "client": "Alliant Energy",
       "hours": 1.0
+    },
+    {
+      "date": "2026-04-23",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-04-23",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-23",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-04-23",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.5
     },
     {
       "date": "2026-04-23",
@@ -4948,6 +5985,34 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 1.0
+    },
+    {
+      "date": "2026-04-22",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-22",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-04-22",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-04-22",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.5
     },
     {
       "date": "2026-04-22",
@@ -5035,6 +6100,41 @@
     },
     {
       "date": "2026-04-21",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.25
+    },
+    {
+      "date": "2026-04-21",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-21",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.25
+    },
+    {
+      "date": "2026-04-21",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-21",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-21",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -5144,6 +6244,41 @@
       "project": "Wild Rose",
       "client": "Alliant Energy",
       "hours": 0.5
+    },
+    {
+      "date": "2026-04-20",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-20",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-20",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-04-20",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-04-20",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
     },
     {
       "date": "2026-04-20",
@@ -5238,6 +6373,48 @@
     },
     {
       "date": "2026-04-17",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-17",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-04-17",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-17",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-17",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-17",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-17",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -5298,6 +6475,34 @@
       "project": "Gipper Wind",
       "client": "Scout Clean Energy",
       "hours": 4.0
+    },
+    {
+      "date": "2026-04-16",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-16",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-16",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-16",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
     },
     {
       "date": "2026-04-16",
@@ -5389,6 +6594,34 @@
       "project": "Gipper Wind",
       "client": "Scout Clean Energy",
       "hours": 12.0
+    },
+    {
+      "date": "2026-04-15",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-04-15",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-15",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-15",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
     },
     {
       "date": "2026-04-15",
@@ -5487,6 +6720,48 @@
       "project": "Ringgold Wind",
       "client": "Steelhead",
       "hours": 2.0
+    },
+    {
+      "date": "2026-04-14",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-04-14",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-14",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-14",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-14",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-14",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
     },
     {
       "date": "2026-04-14",
@@ -5620,6 +6895,41 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 3.0
+    },
+    {
+      "date": "2026-04-13",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-13",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-13",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-04-13",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-13",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
     },
     {
       "date": "2026-04-13",
@@ -5763,6 +7073,34 @@
     },
     {
       "date": "2026-04-10",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-10",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-10",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-10",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-10",
       "person": "Grace Lacke",
       "project": "Wild Rose",
       "client": "Alliant Energy",
@@ -5809,6 +7147,34 @@
       "project": "Gipper Wind",
       "client": "Scout Clean Energy",
       "hours": 6.0
+    },
+    {
+      "date": "2026-04-09",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-09",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-09",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-09",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
     },
     {
       "date": "2026-04-09",
@@ -5896,6 +7262,48 @@
     },
     {
       "date": "2026-04-08",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-08",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-08",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 5.0
+    },
+    {
+      "date": "2026-04-08",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-08",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-04-08",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-08",
       "person": "Grace Lacke",
       "project": "Ren Business Development",
       "client": "RenUSA",
@@ -5962,6 +7370,34 @@
       "person": "Joshua Hartke",
       "project": "Ringgold Wind",
       "client": "Steelhead",
+      "hours": 6.0
+    },
+    {
+      "date": "2026-04-07",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-04-07",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-07",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-07",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
       "hours": 6.0
     },
     {
@@ -6040,6 +7476,48 @@
       "project": "Wild Rose",
       "client": "Alliant Energy",
       "hours": 6.0
+    },
+    {
+      "date": "2026-04-06",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-06",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-04-06",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-06",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-06",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-06",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
     },
     {
       "date": "2026-04-06",
@@ -6127,6 +7605,20 @@
     },
     {
       "date": "2026-04-03",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-04-03",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-04-03",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -6187,6 +7679,27 @@
       "project": "Ringgold Wind",
       "client": "Steelhead",
       "hours": 1.5
+    },
+    {
+      "date": "2026-04-02",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-04-02",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-04-02",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
     },
     {
       "date": "2026-04-02",
@@ -6288,6 +7801,34 @@
     },
     {
       "date": "2026-04-01",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-04-01",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-04-01",
       "person": "Joshua Hartke",
       "project": "Ringgold Wind",
       "client": "Steelhead",
@@ -6341,6 +7882,48 @@
       "project": "Wild Rose",
       "client": "Alliant Energy",
       "hours": 3.0
+    },
+    {
+      "date": "2026-03-31",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-31",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-31",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 6.0
+    },
+    {
+      "date": "2026-03-31",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 6.0
+    },
+    {
+      "date": "2026-03-31",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-03-31",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
     },
     {
       "date": "2026-03-31",
@@ -6418,6 +8001,41 @@
       "project": "Wild Rose",
       "client": "Alliant Energy",
       "hours": 12.0
+    },
+    {
+      "date": "2026-03-30",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-30",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-30",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-30",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-03-30",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 4.0
     },
     {
       "date": "2026-03-30",
@@ -6540,6 +8158,20 @@
     },
     {
       "date": "2026-03-27",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-27",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-03-27",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -6571,6 +8203,34 @@
       "person": "Joshua Hartke",
       "project": "Ringgold Wind",
       "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-26",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-03-26",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-03-26",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-26",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
       "hours": 2.0
     },
     {
@@ -6642,6 +8302,41 @@
       "project": "Ringgold Wind",
       "client": "Steelhead",
       "hours": 4.0
+    },
+    {
+      "date": "2026-03-25",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-25",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-25",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-25",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-25",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
     },
     {
       "date": "2026-03-25",
@@ -6719,6 +8414,34 @@
       "project": "Ringgold Wind",
       "client": "Steelhead",
       "hours": 12.0
+    },
+    {
+      "date": "2026-03-24",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-24",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-24",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-24",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
     },
     {
       "date": "2026-03-24",
@@ -6820,6 +8543,41 @@
     },
     {
       "date": "2026-03-23",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-23",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-23",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-03-23",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-03-23",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-23",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -6911,6 +8669,27 @@
     },
     {
       "date": "2026-03-20",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-20",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-20",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 6.0
+    },
+    {
+      "date": "2026-03-20",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -6964,6 +8743,41 @@
       "project": "Silver Maple",
       "client": "RWE",
       "hours": 3.0
+    },
+    {
+      "date": "2026-03-19",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-19",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-19",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-19",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-19",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 4.0
     },
     {
       "date": "2026-03-19",
@@ -7027,6 +8841,34 @@
       "project": "Silver Maple",
       "client": "RWE",
       "hours": 7.0
+    },
+    {
+      "date": "2026-03-18",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-18",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-18",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-18",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
     },
     {
       "date": "2026-03-18",
@@ -7097,6 +8939,41 @@
       "project": "Silver Maple",
       "client": "RWE",
       "hours": 7.0
+    },
+    {
+      "date": "2026-03-17",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-17",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-17",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-17",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-17",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 2.0
     },
     {
       "date": "2026-03-17",
@@ -7177,6 +9054,27 @@
     },
     {
       "date": "2026-03-16",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-16",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-16",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 6.0
+    },
+    {
+      "date": "2026-03-16",
       "person": "Joshua Hartke",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -7289,6 +9187,20 @@
     },
     {
       "date": "2026-03-13",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-13",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-13",
       "person": "Kaylee Gibbs",
       "project": "Cloudwalker Wind",
       "client": "Enel",
@@ -7342,6 +9254,34 @@
       "project": "Copper Box Solar",
       "client": "ENGIE",
       "hours": 1.0
+    },
+    {
+      "date": "2026-03-12",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-03-12",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-03-12",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-12",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
     },
     {
       "date": "2026-03-12",
@@ -7412,6 +9352,48 @@
       "project": "Copper Box Solar",
       "client": "ENGIE",
       "hours": 12.0
+    },
+    {
+      "date": "2026-03-11",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-11",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-03-11",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-11",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-11",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-03-11",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 2.0
     },
     {
       "date": "2026-03-11",
@@ -7503,6 +9485,27 @@
       "project": "Copper Box Solar",
       "client": "ENGIE",
       "hours": 2.0
+    },
+    {
+      "date": "2026-03-10",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-10",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-10",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
     },
     {
       "date": "2026-03-10",
@@ -7611,6 +9614,41 @@
     },
     {
       "date": "2026-03-09",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-09",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-09",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-09",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-09",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-09",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -7708,6 +9746,13 @@
       "hours": 0.5
     },
     {
+      "date": "2026-03-07",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 5.0
+    },
+    {
       "date": "2026-03-06",
       "person": "Joshua Hartke",
       "project": "Ringgold Wind",
@@ -7726,6 +9771,34 @@
       "person": "Joshua Hartke",
       "project": "Ren Business Development",
       "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-06",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-06",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-06",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-06",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
       "hours": 2.0
     },
     {
@@ -7814,6 +9887,27 @@
     },
     {
       "date": "2026-03-05",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-03-05",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-03-05",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-03-05",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -7888,6 +9982,41 @@
       "project": "Green Sun Wind",
       "client": "Steelhead",
       "hours": 4.0
+    },
+    {
+      "date": "2026-03-04",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-04",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-03-04",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-03-04",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-04",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
     },
     {
       "date": "2026-03-04",
@@ -8003,6 +10132,27 @@
     },
     {
       "date": "2026-03-03",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-03",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-03",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-03-03",
       "person": "Kaylee Gibbs",
       "project": "Whispering Willow Wind",
       "client": "Alliant Energy",
@@ -8108,6 +10258,48 @@
     },
     {
       "date": "2026-03-02",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-03-02",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-03-02",
+      "person": "Jeremy Jones",
+      "project": "Marathon BESS",
+      "client": "Recurrent",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-03-02",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-03-02",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-03-02",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-03-02",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -8153,6 +10345,13 @@
       "person": "Joshua Hartke",
       "project": "Green Sun Wind",
       "client": "Steelhead",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-02-27",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
       "hours": 8.0
     },
     {
@@ -8223,6 +10422,13 @@
       "person": "Joshua Hartke",
       "project": "Ringgold Wind",
       "client": "Steelhead",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-02-26",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
       "hours": 8.0
     },
     {
@@ -8332,6 +10538,20 @@
     },
     {
       "date": "2026-02-25",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-02-25",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 5.0
+    },
+    {
+      "date": "2026-02-25",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -8455,6 +10675,13 @@
       "project": "Ren Business Development",
       "client": "RenUSA",
       "hours": 2.0
+    },
+    {
+      "date": "2026-02-24",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
     },
     {
       "date": "2026-02-24",
@@ -8549,6 +10776,13 @@
     },
     {
       "date": "2026-02-23",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-02-23",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -8668,6 +10902,13 @@
     },
     {
       "date": "2026-02-20",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-02-20",
       "person": "Grace Lacke",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -8735,6 +10976,13 @@
       "project": "Cloudwalker Wind",
       "client": "Enel",
       "hours": 3.0
+    },
+    {
+      "date": "2026-02-19",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
     },
     {
       "date": "2026-02-19",
@@ -8829,6 +11077,55 @@
     },
     {
       "date": "2026-02-18",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-18",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-02-18",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-02-18",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-18",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-18",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-02-18",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-18",
       "person": "Grace Lacke",
       "project": "Ringgold Wind",
       "client": "Steelhead",
@@ -8885,6 +11182,13 @@
     },
     {
       "date": "2026-02-17",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-02-17",
       "person": "Grace Lacke",
       "project": "Silver Maple",
       "client": "RWE",
@@ -8927,6 +11231,13 @@
     },
     {
       "date": "2026-02-16",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-02-16",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -8966,6 +11277,34 @@
       "project": "Ampliform/NW-Rocky Ford, VA",
       "client": "Ampliform",
       "hours": 4.0
+    },
+    {
+      "date": "2026-02-13",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-02-13",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-13",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-13",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 2.0
     },
     {
       "date": "2026-02-13",
@@ -9036,6 +11375,20 @@
       "project": "Ampliform/NW-Rocky Ford, VA",
       "client": "Ampliform",
       "hours": 4.0
+    },
+    {
+      "date": "2026-02-12",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 5.0
+    },
+    {
+      "date": "2026-02-12",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 3.0
     },
     {
       "date": "2026-02-12",
@@ -9137,6 +11490,41 @@
     },
     {
       "date": "2026-02-11",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-11",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-11",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-02-11",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-02-11",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-11",
       "person": "Kaylee Gibbs",
       "project": "Cloudwalker Wind",
       "client": "Enel",
@@ -9221,6 +11609,34 @@
     },
     {
       "date": "2026-02-10",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-10",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-10",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-02-10",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 5.0
+    },
+    {
+      "date": "2026-02-10",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -9257,6 +11673,13 @@
     {
       "date": "2026-02-09",
       "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-02-09",
+      "person": "Jeremy Jones",
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 8.0
@@ -9302,6 +11725,34 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 8.0
+    },
+    {
+      "date": "2026-02-06",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-02-06",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-06",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-06",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 3.0
     },
     {
       "date": "2026-02-06",
@@ -9354,6 +11805,41 @@
     },
     {
       "date": "2026-02-05",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 5.0
+    },
+    {
+      "date": "2026-02-05",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-05",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-05",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-05",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-05",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -9386,6 +11872,41 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 8.0
+    },
+    {
+      "date": "2026-02-04",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-04",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-02-04",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-04",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-04",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
     },
     {
       "date": "2026-02-04",
@@ -9456,6 +11977,41 @@
       "project": "Wild Rose",
       "client": "Alliant Energy",
       "hours": 2.0
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 5.0
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-03",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
     },
     {
       "date": "2026-02-03",
@@ -9540,6 +12096,48 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 8.0
+    },
+    {
+      "date": "2026-02-02",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-02",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-02-02",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-02-02",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-02-02",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-02-02",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
     },
     {
       "date": "2026-02-02",
@@ -9641,6 +12239,34 @@
     },
     {
       "date": "2026-01-30",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-30",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-01-30",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-01-30",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-30",
       "person": "Grace Lacke",
       "project": "Wisconsin",
       "client": "Farm to Power",
@@ -9680,6 +12306,27 @@
       "project": "Cloudwalker Wind",
       "client": "Enel",
       "hours": 8.0
+    },
+    {
+      "date": "2026-01-29",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-29",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-29",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 4.0
     },
     {
       "date": "2026-01-29",
@@ -9743,6 +12390,34 @@
       "project": "Cloudwalker Wind",
       "client": "Enel",
       "hours": 6.0
+    },
+    {
+      "date": "2026-01-28",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-01-28",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-28",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-28",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
     },
     {
       "date": "2026-01-28",
@@ -9806,6 +12481,34 @@
       "project": "Cloudwalker Wind",
       "client": "Enel",
       "hours": 6.0
+    },
+    {
+      "date": "2026-01-27",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-27",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-27",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-27",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 4.0
     },
     {
       "date": "2026-01-27",
@@ -9879,6 +12582,41 @@
     },
     {
       "date": "2026-01-26",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-26",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-26",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-26",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-01-26",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-26",
       "person": "Grace Lacke",
       "project": "Flat Rock",
       "client": "Enel",
@@ -9956,6 +12694,34 @@
     },
     {
       "date": "2026-01-23",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-23",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-23",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-23",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-01-23",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -10012,6 +12778,55 @@
     },
     {
       "date": "2026-01-22",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-22",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-22",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-22",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-01-22",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-22",
+      "person": "Jeremy Jones",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-22",
+      "person": "Jeremy Jones",
+      "project": "Black Cherry",
+      "client": "Swift Current",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-22",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -10065,6 +12880,41 @@
       "project": "Harvest Hills",
       "client": "Steelhead",
       "hours": 2.5
+    },
+    {
+      "date": "2026-01-21",
+      "person": "Jeremy Jones",
+      "project": "Black Cherry",
+      "client": "Swift Current",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-01-21",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-01-21",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.75
+    },
+    {
+      "date": "2026-01-21",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.75
+    },
+    {
+      "date": "2026-01-21",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
     },
     {
       "date": "2026-01-21",
@@ -10128,6 +12978,41 @@
       "project": "Harvest Hills",
       "client": "Steelhead",
       "hours": 2.0
+    },
+    {
+      "date": "2026-01-20",
+      "person": "Jeremy Jones",
+      "project": "Black Cherry",
+      "client": "Swift Current",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-01-20",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-01-20",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-01-20",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.5
+    },
+    {
+      "date": "2026-01-20",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.5
     },
     {
       "date": "2026-01-20",
@@ -10201,6 +13086,13 @@
     },
     {
       "date": "2026-01-19",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-01-19",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -10233,6 +13125,27 @@
       "project": "Cloudwalker Wind",
       "client": "Enel",
       "hours": 3.5
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Jeremy Jones",
+      "project": "Black Cherry",
+      "client": "Swift Current",
+      "hours": 5.0
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-01-16",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 0.5
     },
     {
       "date": "2026-01-16",
@@ -10278,6 +13191,20 @@
     },
     {
       "date": "2026-01-15",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-15",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-15",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -10303,6 +13230,27 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 1.5
+    },
+    {
+      "date": "2026-01-15",
+      "person": "Jeremy Jones",
+      "project": "Black Cherry",
+      "client": "Swift Current",
+      "hours": 5.0
+    },
+    {
+      "date": "2026-01-15",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-15",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 2.0
     },
     {
       "date": "2026-01-15",
@@ -10362,6 +13310,41 @@
     },
     {
       "date": "2026-01-14",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-14",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-14",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-01-14",
+      "person": "Jeremy Jones",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-14",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-14",
       "person": "Kaylee Gibbs",
       "project": "Harvest Hills",
       "client": "Steelhead",
@@ -10408,6 +13391,27 @@
       "project": "Wild Rose",
       "client": "Alliant Energy",
       "hours": 4.0
+    },
+    {
+      "date": "2026-01-13",
+      "person": "Jeremy Jones",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-13",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-01-13",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
     },
     {
       "date": "2026-01-13",
@@ -10467,6 +13471,41 @@
     },
     {
       "date": "2026-01-12",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-12",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-01-12",
+      "person": "Jeremy Jones",
+      "project": "VA Research",
+      "client": "Clearway",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-12",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.5
+    },
+    {
+      "date": "2026-01-12",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-12",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -10558,6 +13597,13 @@
     },
     {
       "date": "2026-01-09",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-01-09",
       "person": "Grace Lacke",
       "project": "Ren Business Development",
       "client": "RenUSA",
@@ -10611,6 +13657,34 @@
       "project": "Cloudwalker Wind",
       "client": "Enel",
       "hours": 2.0
+    },
+    {
+      "date": "2026-01-08",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.5
+    },
+    {
+      "date": "2026-01-08",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.5
+    },
+    {
+      "date": "2026-01-08",
+      "person": "Jeremy Jones",
+      "project": "Black Cherry",
+      "client": "Swift Current",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-08",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
     },
     {
       "date": "2026-01-08",
@@ -10709,6 +13783,48 @@
       "project": "Cloudwalker Wind",
       "client": "Enel",
       "hours": 2.0
+    },
+    {
+      "date": "2026-01-07",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-07",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-01-07",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-07",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-07",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-07",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/CV-Tollhouse, VA",
+      "client": "Ampliform",
+      "hours": 1.0
     },
     {
       "date": "2026-01-07",
@@ -10817,6 +13933,48 @@
     },
     {
       "date": "2026-01-06",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-06",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-06",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-01-06",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-01-06",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/CV-Tollhouse, VA",
+      "client": "Ampliform",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-06",
+      "person": "Jeremy Jones",
+      "project": "Ampliform/NW-Rocky Ford, VA",
+      "client": "Ampliform",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-06",
       "person": "Grace Lacke",
       "project": "Flat Rock",
       "client": "Enel",
@@ -10870,6 +14028,41 @@
       "project": "Cloudwalker Wind",
       "client": "Enel",
       "hours": 2.5
+    },
+    {
+      "date": "2026-01-05",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-01-05",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-01-05",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-01-05",
+      "person": "Jeremy Jones",
+      "project": "Wild Rose",
+      "client": "Alliant Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-01-05",
+      "person": "Jeremy Jones",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 1.5
     },
     {
       "date": "2026-01-05",
@@ -10936,6 +14129,13 @@
     },
     {
       "date": "2026-01-02",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-01-02",
       "person": "Grace Lacke",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -10944,6 +14144,13 @@
     {
       "date": "2026-01-01",
       "person": "Kaylee Gibbs",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-01-01",
+      "person": "Jeremy Jones",
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 8.0
