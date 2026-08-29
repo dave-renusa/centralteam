@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated": "2026-08-21 18:27 UTC",
+    "generated": "2026-08-29 01:22 UTC",
     "year": 2026,
     "from": "2026-01-01",
-    "to": "2026-08-21",
+    "to": "2026-08-29",
     "people": [
       "Grace Lacke",
       "Jeremy Jones",
@@ -16,6 +16,7 @@
       "Allium",
       "Ampliform/CV-Tollhouse, VA",
       "Ampliform/NW-Rocky Ford, VA",
+      "Belvedere Tech Campus - Fredericksburg",
       "Black Cherry",
       "Cloudwalker Wind",
       "Copper Box Solar",
@@ -35,7 +36,9 @@
       "Long Meadow Solar/Morgan County, CO",
       "Lost Island Wind",
       "Marathon BESS",
+      "Media Relations",
       "Montcalm Ground Breaking",
+      "Pottawattamie",
       "Ren Business Development",
       "Ren Internal",
       "Ringgold Wind",
@@ -58,6 +61,7 @@
       "ENGIE",
       "Enel",
       "Farm to Power",
+      "Highland Digital",
       "Longroad Energy",
       "Penzance",
       "RWE",
@@ -72,10 +76,640 @@
       "Triple Oak",
       "Viridon"
     ],
-    "entry_count": 2842,
-    "total_hours": 5859.2
+    "entry_count": 2983,
+    "total_hours": 6197.6
   },
   "entries": [
+    {
+      "date": "2026-08-28",
+      "person": "Marilyn Ihinger",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 12.0
+    },
+    {
+      "date": "2026-08-28",
+      "person": "Jeremy Jones",
+      "project": "Rouget Road",
+      "client": "RWE",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-08-28",
+      "person": "Jeremy Jones",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-28",
+      "person": "Jeremy Jones",
+      "project": "Rouget Road",
+      "client": "RWE",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-08-28",
+      "person": "Joshua Hartke",
+      "project": "Pottawattamie",
+      "client": "RWE",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-28",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Marilyn Ihinger",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Marilyn Ihinger",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Marilyn Ihinger",
+      "project": "Rouget Road",
+      "client": "RWE",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Marilyn Ihinger",
+      "project": "Rouget Road",
+      "client": "RWE",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Marilyn Ihinger",
+      "project": "Pottawattamie",
+      "client": "RWE",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Jeremy Jones",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Kaylee Gibbs",
+      "project": "Frigid Creek Solar/Mason County, WA",
+      "client": "Treaty Oak Clean Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Kaylee Gibbs",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Kaylee Gibbs",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Kaylee Gibbs",
+      "project": "Media Relations",
+      "client": "Ranger Power",
+      "hours": 6.5
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Joshua Hartke",
+      "project": "Gipper Wind",
+      "client": "Scout Clean Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.75
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Grace Lacke",
+      "project": "Pottawattamie",
+      "client": "RWE",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Grace Lacke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Grace Lacke",
+      "project": "Home Range Digital",
+      "client": "Triple Oak",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Grace Lacke",
+      "project": "Home Range Digital",
+      "client": "Triple Oak",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Grace Lacke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-27",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Marilyn Ihinger",
+      "project": "Walker Road Solar",
+      "client": "RWE",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Marilyn Ihinger",
+      "project": "Rouget Road",
+      "client": "RWE",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Marilyn Ihinger",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Marilyn Ihinger",
+      "project": "Walker Road Solar",
+      "client": "RWE",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Jeremy Jones",
+      "project": "Rouget Road",
+      "client": "RWE",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Joshua Hartke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.75
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Grace Lacke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Grace Lacke",
+      "project": "Home Range Digital",
+      "client": "Triple Oak",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Grace Lacke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Grace Lacke",
+      "project": "Walker Road Solar",
+      "client": "RWE",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-26",
+      "person": "Grace Lacke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Marilyn Ihinger",
+      "project": "Whispering Willow Wind",
+      "client": "Alliant Energy",
+      "hours": 3.5
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Marilyn Ihinger",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Jeremy Jones",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 14.0
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Joshua Hartke",
+      "project": "Gipper Wind",
+      "client": "Scout Clean Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Grace Lacke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Grace Lacke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Grace Lacke",
+      "project": "Green Sun Wind",
+      "client": "Steelhead",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Grace Lacke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-25",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Marilyn Ihinger",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.25
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Jeremy Jones",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Jeremy Jones",
+      "project": "1500 Gateway Data Center",
+      "client": "Penzance",
+      "hours": 5.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Joshua Hartke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 12.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.25
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 0.75
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Grace Lacke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Grace Lacke",
+      "project": "Green Sun Wind",
+      "client": "Steelhead",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Grace Lacke",
+      "project": "Green Sun Wind",
+      "client": "Steelhead",
+      "hours": 1.25
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Grace Lacke",
+      "project": "Green Sun Wind",
+      "client": "Steelhead",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-24",
+      "person": "Grace Lacke",
+      "project": "Rouget Road",
+      "client": "RWE",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-23",
+      "person": "Joshua Hartke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 12.0
+    },
+    {
+      "date": "2026-08-23",
+      "person": "Kaylee Gibbs",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-08-22",
+      "person": "Kaylee Gibbs",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 15.0
+    },
+    {
+      "date": "2026-08-21",
+      "person": "Kaylee Gibbs",
+      "project": "Green Sun Wind",
+      "client": "Steelhead",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-08-21",
+      "person": "Kaylee Gibbs",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 13.0
+    },
+    {
+      "date": "2026-08-21",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-21",
+      "person": "Marilyn Ihinger",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-21",
+      "person": "Marilyn Ihinger",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-21",
+      "person": "Marilyn Ihinger",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-21",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-08-21",
+      "person": "Joshua Hartke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-08-21",
+      "person": "Joshua Hartke",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 4.0
+    },
     {
       "date": "2026-08-21",
       "person": "Grace Lacke",
@@ -110,6 +744,62 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 8.0
+    },
+    {
+      "date": "2026-08-20",
+      "person": "Kaylee Gibbs",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 10.0
+    },
+    {
+      "date": "2026-08-20",
+      "person": "Marilyn Ihinger",
+      "project": "Walker Road Solar",
+      "client": "RWE",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-20",
+      "person": "Marilyn Ihinger",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-20",
+      "person": "Marilyn Ihinger",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-20",
+      "person": "Marilyn Ihinger",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-08-20",
+      "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-20",
+      "person": "Joshua Hartke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-20",
+      "person": "Joshua Hartke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 4.0
     },
     {
       "date": "2026-08-20",
@@ -166,6 +856,97 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 0.5
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Kaylee Gibbs",
+      "project": "Frigid Creek Solar/Mason County, WA",
+      "client": "Treaty Oak Clean Energy",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Kaylee Gibbs",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Kaylee Gibbs",
+      "project": "Green Sun Wind",
+      "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Kaylee Gibbs",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Kaylee Gibbs",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Marilyn Ihinger",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 0.75
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Marilyn Ihinger",
+      "project": "Walker Road Solar",
+      "client": "RWE",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Marilyn Ihinger",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Marilyn Ihinger",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Joshua Hartke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Joshua Hartke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-08-19",
+      "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
     },
     {
       "date": "2026-08-19",
@@ -239,6 +1020,83 @@
     },
     {
       "date": "2026-08-18",
+      "person": "Kaylee Gibbs",
+      "project": "Green Sun Wind",
+      "client": "Steelhead",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-08-18",
+      "person": "Kaylee Gibbs",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-18",
+      "person": "Kaylee Gibbs",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-18",
+      "person": "Kaylee Gibbs",
+      "project": "Frigid Creek Solar/Mason County, WA",
+      "client": "Treaty Oak Clean Energy",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-08-18",
+      "person": "Marilyn Ihinger",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-08-18",
+      "person": "Marilyn Ihinger",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-18",
+      "person": "Marilyn Ihinger",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-18",
+      "person": "Marilyn Ihinger",
+      "project": "Belvedere Tech Campus - Fredericksburg",
+      "client": "Highland Digital",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-18",
+      "person": "Joshua Hartke",
+      "project": "Green Sun Wind",
+      "client": "Steelhead",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-18",
+      "person": "Joshua Hartke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-08-18",
+      "person": "Joshua Hartke",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-08-18",
       "person": "Jeremy Jones",
       "project": "1500 Gateway Data Center",
       "client": "Penzance",
@@ -292,6 +1150,139 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 0.5
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Kaylee Gibbs",
+      "project": "Belvedere Tech Campus - Fredericksburg",
+      "client": "Highland Digital",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Kaylee Gibbs",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Kaylee Gibbs",
+      "project": "Cloudwalker Wind",
+      "client": "Enel",
+      "hours": 0.25
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Kaylee Gibbs",
+      "project": "Harvest Hills",
+      "client": "Steelhead",
+      "hours": 0.25
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Kaylee Gibbs",
+      "project": "Long Meadow Solar/Morgan County, CO",
+      "client": "Treaty Oak Clean Energy",
+      "hours": 0.33
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Kaylee Gibbs",
+      "project": "Grandview Solar/Pueblo County, CO",
+      "client": "Treaty Oak Clean Energy",
+      "hours": 0.33
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Kaylee Gibbs",
+      "project": "Frigid Creek Solar/Mason County, WA",
+      "client": "Treaty Oak Clean Energy",
+      "hours": 3.33
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Marilyn Ihinger",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Marilyn Ihinger",
+      "project": "Belvedere Tech Campus - Fredericksburg",
+      "client": "Highland Digital",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Marilyn Ihinger",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Marilyn Ihinger",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 0.75
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Marilyn Ihinger",
+      "project": "Montcalm Ground Breaking",
+      "client": "Ranger Power",
+      "hours": 1.42
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Joshua Hartke",
+      "project": "Green Sun Wind",
+      "client": "Steelhead",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Joshua Hartke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-08-17",
+      "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 3.0
     },
     {
       "date": "2026-08-17",
