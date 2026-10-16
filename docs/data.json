@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated": "2026-10-09 22:07 UTC",
+    "generated": "2026-10-16 20:24 UTC",
     "year": 2026,
     "from": "2026-01-01",
-    "to": "2026-10-09",
+    "to": "2026-10-16",
     "people": [
       "Grace Lacke",
       "Jeremy Jones",
@@ -81,10 +81,374 @@
       "Triple Oak",
       "Viridon"
     ],
-    "entry_count": 3490,
-    "total_hours": 7548.5
+    "entry_count": 3548,
+    "total_hours": 7733.0
   },
   "entries": [
+    {
+      "date": "2026-10-16",
+      "person": "Grace Lacke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-16",
+      "person": "Jeremy Jones",
+      "project": "Nye County, NV",
+      "client": "Clearway",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-10-16",
+      "person": "Jeremy Jones",
+      "project": "Pottawattamie",
+      "client": "RWE",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-16",
+      "person": "Grace Lacke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-16",
+      "person": "Grace Lacke",
+      "project": "Ren Business Development",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-16",
+      "person": "Grace Lacke",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-16",
+      "person": "Jeremy Jones",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-10-16",
+      "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Jeremy Jones",
+      "project": "Pottawattamie",
+      "client": "RWE",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Jeremy Jones",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Jeremy Jones",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 4.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Grace Lacke",
+      "project": "Ren Business Development",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Grace Lacke",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Grace Lacke",
+      "project": "Home Range Digital",
+      "client": "Triple Oak",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Grace Lacke",
+      "project": "Ren Business Development",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Grace Lacke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-10-15",
+      "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-10-14",
+      "person": "Jeremy Jones",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-14",
+      "person": "Jeremy Jones",
+      "project": "Nye County, NV",
+      "client": "Clearway",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-10-14",
+      "person": "Jeremy Jones",
+      "project": "Nye County, NV",
+      "client": "Clearway",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-10-14",
+      "person": "Grace Lacke",
+      "project": "Ren Business Development",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-14",
+      "person": "Grace Lacke",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-10-14",
+      "person": "Grace Lacke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-14",
+      "person": "Grace Lacke",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-10-14",
+      "person": "Grace Lacke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-14",
+      "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-10-14",
+      "person": "Grace Lacke",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Jeremy Jones",
+      "project": "Nye County, NV",
+      "client": "Clearway",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Jeremy Jones",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Jeremy Jones",
+      "project": "Nye County, NV",
+      "client": "Clearway",
+      "hours": 6.0
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Joshua Hartke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Joshua Hartke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Joshua Hartke",
+      "project": "Gipper Solar",
+      "client": "Scout Clean Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Grace Lacke",
+      "project": "Ren Business Development",
+      "client": "RenUSA",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Grace Lacke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 2.5
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Grace Lacke",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 0.5
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.5
+    },
+    {
+      "date": "2026-10-13",
+      "person": "Grace Lacke",
+      "project": "Ren Business Development",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-12",
+      "person": "Jeremy Jones",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-10-12",
+      "person": "Joshua Hartke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-10-12",
+      "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-10-09",
+      "person": "Jeremy Jones",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-09",
+      "person": "Jeremy Jones",
+      "project": "Nye County, NV",
+      "client": "Clearway",
+      "hours": 6.0
+    },
+    {
+      "date": "2026-10-09",
+      "person": "Marilyn Ihinger",
+      "project": "Humboldt",
+      "client": "RWE",
+      "hours": 3.0
+    },
+    {
+      "date": "2026-10-09",
+      "person": "Marilyn Ihinger",
+      "project": "Greenbelt",
+      "client": "RWE",
+      "hours": 1.0
+    },
+    {
+      "date": "2026-10-09",
+      "person": "Marilyn Ihinger",
+      "project": "Ringgold Wind",
+      "client": "Steelhead",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-09",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 1.0
+    },
     {
       "date": "2026-10-09",
       "person": "Kaylee Gibbs",
@@ -171,6 +535,20 @@
     },
     {
       "date": "2026-10-08",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 2.0
+    },
+    {
+      "date": "2026-10-08",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 5.0
+    },
+    {
+      "date": "2026-10-08",
       "person": "Kaylee Gibbs",
       "project": "SPC/HGP",
       "client": "New Horizon",
@@ -248,6 +626,13 @@
     },
     {
       "date": "2026-10-07",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 9.0
+    },
+    {
+      "date": "2026-10-07",
       "person": "Kaylee Gibbs",
       "project": "Ren Internal",
       "client": "RenUSA",
@@ -270,6 +655,13 @@
     {
       "date": "2026-10-07",
       "person": "Grace Lacke",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 8.0
+    },
+    {
+      "date": "2026-10-06",
+      "person": "Marilyn Ihinger",
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 8.0
@@ -308,6 +700,20 @@
       "project": "Ren Internal",
       "client": "RenUSA",
       "hours": 8.0
+    },
+    {
+      "date": "2026-10-05",
+      "person": "Marilyn Ihinger",
+      "project": "Ren Internal",
+      "client": "RenUSA",
+      "hours": 7.0
+    },
+    {
+      "date": "2026-10-05",
+      "person": "Marilyn Ihinger",
+      "project": "Yellow Knight",
+      "client": "Longroad Energy",
+      "hours": 2.0
     },
     {
       "date": "2026-10-05",
